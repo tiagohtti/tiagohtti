@@ -1,6 +1,6 @@
-Projeto Agatti – Manual do Desenvolvedor que Faz Tudo e Mais Um Pouco
+Manual do Desenvolvedor que Faz Tudo e Mais Um Pouco
 ________________________________________
-🧠 O que é o Agatti?
+🧠 O que é o Agatti
 Agatti é o centro nervoso do caos técnico funcional, operado por um desenvolvedor com visão completa: negócio, sistema e usuário (sim, até aquele que envia .jpg do Excel impresso).
 •	Aqui não tem “projeto paralelo”. Tem sistema real, uso real, usuário real (e real problema).
 •	Cada linha de código é pensada para funcionar sem precisar de você colado no cliente.
